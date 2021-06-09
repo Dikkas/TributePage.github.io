@@ -1,0 +1,49 @@
+body{
+    color: #222222;
+    font-family: Parkavenue, cursive;
+}
+
+#main{
+    background-color: rgb(235, 233, 233);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#title{
+    padding-top: 40px;
+}
+
+#img-div{
+    background-color: white;
+    width: 95%;
+    padding: 10px;
+    margin: auto;
+}
+
+#image{
+    width: 65%;
+}
+
+#tribute-info{
+    margin: auto;
+    text-align: left;
+    width: 40%;
+}
+
+#tribute-info > h3{
+    text-align: center;
+    margin: 50px;
+}
+
+.quote{
+    margin: 60px 0px
+}
+
+li{
+    margin: 15px 0px;
+}
+
+.foot{
+    padding-bottom: 50px;
+}
+
